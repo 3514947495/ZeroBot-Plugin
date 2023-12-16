@@ -259,7 +259,8 @@ func init() {
 
 	// 通过代码写死的方式添加主人账号
 	 sus = append(sus, 3514947495)
-	//sus = append(sus, 2014797073)
+	sus = append(sus, 2014797073)
+	sus = append(sus, 3809959583)
 
 	// 启用 webui
 	// go webctrl.RunGui(*g)
